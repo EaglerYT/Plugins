@@ -1,0 +1,7 @@
+name: Lobby
+author: Eagler
+version: 1.0
+main: me.Eagler.Main
+commands:
+  setloc:
+  build:
